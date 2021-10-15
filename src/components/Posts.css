@@ -1,0 +1,28 @@
+.Container {
+    background-color : darkgray;
+    padding-bottom: 10px;
+}
+
+.Post {
+    background-color : white;
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.User {
+    font-size: 0.8em;
+    color : darkgray;
+    padding: 5px;
+}
+
+.Title {
+    font-size: 1.5em;
+    color : maroon;
+    padding : 5px;
+}
+
+.Content {
+    color: darkgray;
+    padding : 5px;
+}
